@@ -992,6 +992,7 @@ background-color: #088178;
   #prodetails .single-pro-details {
     width: 80%;
     margin-right: 10%;
+    align-items: center;
 }
 
 /* Contact Page */
